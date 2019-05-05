@@ -6,19 +6,20 @@
     <description>Recent content in Blog on Masetio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Sugeng Rawuh</title>
+      <link>/blog/sugengrawuh/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>/blog/sugengrawuh/</guid>
+      <description>Assalamu&amp;rsquo;alaikum Sugeng rawuh, selamat datang Setelah lama vacum gak ngeblog, ini memulai lagi ngblog. Mungkin topiknya macem-macem, dari kuliner, jalan-jalan, programming dan networking.
+Sekarang lagi minat banget sama Machine Learning, berhubungan dengan pekerjaan yang analisa optimasi data, kegiatan kuliner pending dulu.
+Oh ya.. sedikit cerita tentang hosting blog ini, hostingnya gratisan di Netlify, dengan platform Hugo repo di github. Modal gratisan tapi cepet, domain juga murah IDR 50.000/tahun.</description>
     </item>
     
     <item>
