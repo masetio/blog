@@ -166,7 +166,7 @@ canonifyURLs = true
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
+  linkedin         = ""
   linkedin_company = ""
   foursquare       = ""
   xing             = ""
@@ -174,7 +174,7 @@ canonifyURLs = true
   # Social Networks
   facebook         = "masetio"
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
