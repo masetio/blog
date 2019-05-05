@@ -8,7 +8,7 @@ featuredalt = "Pic 2"
 featuredpath = "date"
 linktitle = ""
 title = "(Hu)go Template Primer"
-type = "post"
+type = "draft"
 
 +++
 
