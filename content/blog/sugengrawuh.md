@@ -2,10 +2,10 @@
 author = "masetio"
 categories = ["blog"]
 date = "2019-05-05"
-description = ""
+description = "Sugeng Rawuh"
 featured = ""
 featuredalt = ""
-featuredpath = ""
+featuredpath = "date"
 linktitle = ""
 title = "Sugeng Rawuh"
 type = "post"
