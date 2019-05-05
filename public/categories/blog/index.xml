@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Masetio</title>
+    <link>/categories/blog/</link>
+    <description>Recent content in blog on Masetio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sugeng Rawuh</title>
+      <link>/blog/sugengrawuh/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sugengrawuh/</guid>
+      <description>Assalamu&amp;rsquo;alaikum Sugeng rawuh, selamat datang Setelah lama vacum gak ngeblog, ini memulai lagi ngblog. Mungkin topiknya macem-macem, dari kuliner, jalan-jalan, programming dan networking.
+Sekarang lagi minat banget sama Machine Learning, berhubungan dengan pekerjaan yang analisa optimasi data, kegiatan kuliner pending dulu.
+Oh ya.. sedikit cerita tentang hosting blog ini, hostingnya gratisan di Netlify, dengan platform Hugo repo di github. Modal gratisan tapi cepet, domain juga murah IDR 50.000/tahun.</description>
+    </item>
+    
+  </channel>
+</rss>
