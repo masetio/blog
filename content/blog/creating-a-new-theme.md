@@ -9,7 +9,8 @@ featuredalt = "Pic 3"
 featuredpath = "date"
 linktitle = ""
 title = "Creating a New Theme"
-type = "draft"
+type = "post"
+draft = "true"
 
 +++
 

@@ -8,7 +8,8 @@ featuredalt = "Pic 1"
 featuredpath = "date"
 linktitle = ""
 title = "Getting Started with Hugo"
-type = "draft"
+type = "post"
+draft = "true"
 
 +++
 
