@@ -6,10 +6,19 @@
     <description>Recent content in blog on Masetio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 16:34:05 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Console Linux Di Android</title>
+      <link>/blog/console-linux-di-android/</link>
+      <pubDate>Fri, 17 May 2019 16:34:05 +0000</pubDate>
+      
+      <guid>/blog/console-linux-di-android/</guid>
+      <description>iseng Sambil menunggu perjalanan kereta jalur selatan yang lama banget, kepikiran untuk ngeblog, seperti post sebelumnya xxxx kalau blog ini di tenagai oleh ++HUGO++ yang managenya harus dengan console. Untuk itu saya mengsetup Handphone saya ini versi Redmi 4A agar support console linux. 1. Install termux Pertama install aplikasi termux dadi playstore. Setelah terinstall perlu di konfigurasi agar storage android dapat di akses oleh termux dengan cara menjalankan program</description>
+    </item>
     
     <item>
       <title>Sugeng Rawuh</title>

@@ -1,4 +1,4 @@
----
++++
 author = "masetio"
 categories = ["blog"]
 description = ""
@@ -7,7 +7,7 @@ type = "post"
 title = "Console Linux Di Android"
 date =2019-05-17T16:34:05Z
 draft = false
----
++++
 ## iseng
 Sambil menunggu perjalanan kereta jalur selatan yang lama banget, kepikiran untuk ngeblog, seperti post sebelumnya xxxx kalau blog ini di tenagai oleh ++HUGO++ yang managenya harus dengan _console_. Untuk itu saya mengsetup Handphone saya ini versi Redmi 4A agar support console linux.
 1. Install termux
