@@ -1,4 +1,10 @@
 ---
+author = "masetio"
+categories = ["blog"]
+description = "Console Linux di Android"
+featuredpath = "date"
+linktitle = ""
+type = "post"
 title: "Console Linux Di Android"
 date: 2019-05-17T16:34:05Z
 draft: false
