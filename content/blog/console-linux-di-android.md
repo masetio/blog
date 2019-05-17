@@ -1,7 +1,7 @@
 ---
 author = "masetio"
 categories = ["blog"]
-description = "Console Linux di Android"
+description = ""
 linktitle = ""
 type = "post"
 title: "Console Linux Di Android"
